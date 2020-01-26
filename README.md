@@ -1,8 +1,10 @@
-# Open Assets Protocol
+# Open Assets Exchange Protocol
 
-The Open Assets Protocol is a simple and powerful protocol built on top of the Bitcoin Blockchain. It allows issuance and transfer of user-created assets. The Open Assets Protocol is an evolution of the concept of colored coins.
+The Open Assets Exchange Protocol is a simple and powerful protocol built on top of the Open Assets Protocol. It allows issuance of a new coin called Skeleton Coin (SKN) and it's tranfer to facilitate exchange of blockchain currencies and assets. The Open Assets Exchange Protocol is an evolution of the concept of the Open Assets Protocol.
 
-The following documents are available:
+* [Open Assets Exchange Protocol specification](OAEP-Spec.mediawiki): Specification of the core protocol
+
+The following Open Assets Protocol reference documents are available:
 
 * [Open Assets Protocol specification](specification.mediawiki): Specification of the core protocol
 * [Open Assets Address Format specification](address-format.mediawiki): Special address format for wallets supporting the Open Assets Protocol, preventing assets from being sent to legacy wallets
